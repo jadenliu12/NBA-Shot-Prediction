@@ -1,4 +1,4 @@
-# NBA-Shot-Prediction
+# NBA Shot Prediction
 
 The goal of this notebook is to predict whether or not an NBA player will make their next shot given their past datas.
 
